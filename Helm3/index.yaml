@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  split-me-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-21T16:59:43.071896-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4792d624045d199be4bb44361767803097b14c1d80f8cbb82aa39ae6596a899b
+    name: split-me-chart
+    type: application
+    urls:
+    - split-me-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-11-21T16:59:43.071081-08:00"
